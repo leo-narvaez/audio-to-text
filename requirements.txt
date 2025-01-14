@@ -1,0 +1,4 @@
+SpeechRecognition==3.8.1
+pydub==0.25.1
+openai==0.27.0
+requests==2.25.1
